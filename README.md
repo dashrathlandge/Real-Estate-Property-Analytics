@@ -173,10 +173,15 @@ Property price patterns. City-wise pricing differences. Locality-wise pricing di
 <img width="1064" height="836" alt="image" src="https://github.com/user-attachments/assets/77957a1e-f1c4-4066-ad26-1dcacabd9f37" />
 <img width="563" height="453" alt="image" src="https://github.com/user-attachments/assets/b08c805d-26a8-406b-81fd-99594d33298d" />
 <img width="572" height="453" alt="image" src="https://github.com/user-attachments/assets/d04ba01d-9b63-4d6a-99e2-4fb08446691b" />
-
-
-
-
+<img width="563" height="453" alt="image" src="https://github.com/user-attachments/assets/4340f1ef-cb7d-480b-9310-3dc2f668f9e8" />
+<img width="563" height="453" alt="image" src="https://github.com/user-attachments/assets/d50c133a-7b2c-4ccd-8025-b0559ae074ed" />
+<img width="563" height="453" alt="image" src="https://github.com/user-attachments/assets/14651a1c-22fa-4448-9b8c-5938079d1c92" />
+<img width="563" height="453" alt="image" src="https://github.com/user-attachments/assets/12fa6e43-6823-4f05-ac6b-65273ce2cccf" />
+<img width="567" height="453" alt="image" src="https://github.com/user-attachments/assets/7ac453e2-c1fd-4a87-ab79-0c3b8b1e613d" />
+<img width="567" height="453" alt="image" src="https://github.com/user-attachments/assets/8bd2fb5f-909d-4b11-8aa5-7b06b6b7bf95" />
+<img width="563" height="453" alt="image" src="https://github.com/user-attachments/assets/8a484680-b9a4-4213-b8b8-edecea59f83d" />
+<img width="571" height="453" alt="image" src="https://github.com/user-attachments/assets/84845a4c-f5f8-4206-9ff7-dd185c8f6f62" />
+<img width="762" height="371" alt="image" src="https://github.com/user-attachments/assets/5167dac9-bf69-485b-a6ab-2bcf8586ba8a" />
 
 
 📌 Project Overview
