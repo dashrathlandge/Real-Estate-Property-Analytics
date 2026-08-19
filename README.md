@@ -5,6 +5,7 @@ Built an interactive Real Estate Property Analytics Dashboard in Microsoft Power
 An interactive Real Estate Property Analytics Dashboard built in Microsoft Power BI to analyze property prices, city and locality performance, property characteristics, amenities, and market trends. This project demonstrates an end-to-end data analysis workflow, from data cleaning and EDA to dashboard creation and business insights.
 
 🔍 Exploratory Data Analysis (EDA)
+
 Exploratory Data Analysis was performed on the Real Estate Property dataset to understand property prices, locations, property characteristics, amenities, and relationships between different variables before creating the Power BI dashboard.
 
 📊 1. Dataset Overview
@@ -25,6 +26,7 @@ To understand the overall property market and identify price variations.
 
 🌆 4. City-Wise Analysis
 
+
 Analyzed property distribution and pricing across different cities.
 
 Analysis Number of properties by city Average price by city Minimum price by city Maximum price by city City-wise property distribution Business Question
@@ -33,6 +35,7 @@ Which cities have the highest and lowest average property prices?
 
 📍 5. Locality-Wise Analysis
 
+
 Analyzed property prices across different localities.
 
 Analysis Properties by locality Average locality price Top expensive localities Affordable localities Business Question
@@ -40,6 +43,7 @@ Analysis Properties by locality Average locality price Top expensive localities 
 Which localities are the most expensive?
 
 🏠 6. Property Type Analysis
+
 
 Analyzed different property types.
 
@@ -54,6 +58,7 @@ Analysis Property count by bedrooms Average price by bedrooms Price distribution
 Does the number of bedrooms affect property prices?
 
 🚿 8. Bathroom Analysis
+
 
 Analyzed the number of bathrooms.
 
@@ -75,6 +80,7 @@ Understand whether larger properties tend to have higher prices.
 
 🌳 11. Lot Area Analysis
 
+
 Analyzed sqft_lot.
 
 Analysis Minimum lot area Maximum lot area Average lot area Lot area vs property price 🏢 12. Floors Analysis
@@ -90,6 +96,7 @@ Analysis Furnished properties Semi-furnished properties Unfurnished properties A
 Does furnishing status influence property price?
 
 🚗 14. Parking Analysis
+
 
 Analyzed parking availability.
 
@@ -115,6 +122,7 @@ To understand whether properties have better access to educational facilities.
 
 🏥 19. Nearby Hospitals Analysis
 
+
 Analyzed nearby hospitals.
 
 Purpose
@@ -122,6 +130,7 @@ Purpose
 To understand the availability of healthcare facilities around properties.
 
 🏗️ 20. Year Built Analysis
+
 
 Analyzed property construction years.
 
@@ -141,11 +150,12 @@ Identify relationships between property characteristics and price.
 
 📌 23. EDA Summary
 
+
 The EDA helped identify:
 
 Property price patterns. City-wise pricing differences. Locality-wise pricing differences. Property type distribution. Bedroom and bathroom patterns. Relationship between property size and price. Furnishing differences. Amenity availability. Construction and renovation patterns.
 
-📸 EDA Preview image image image image image image image image image image image image image image image image image image
+📸 EDA Preview 
 
 📌 Project Overview
 This project transforms raw real estate property data into an interactive dashboard that helps users understand property pricing and market characteristics.
