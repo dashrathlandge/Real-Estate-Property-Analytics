@@ -1,4 +1,5 @@
 🏠 Real-Estate-Property-Analytics-Dashboard
+
 Built an interactive Real Estate Property Analytics Dashboard in Microsoft Power BI using Power Query, DAX, Data Modeling, KPI Cards, Charts, Maps, and Slicers. Analyzed property prices, locations, property types, bedrooms, bathrooms, property sizes, furnishing, amenities, and construction information to generate actionable real estate insights.
 
 An interactive Real Estate Property Analytics Dashboard built in Microsoft Power BI to analyze property prices, city and locality performance, property characteristics, amenities, and market trends. This project demonstrates an end-to-end data analysis workflow, from data cleaning and EDA to dashboard creation and business insights.
