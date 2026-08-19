@@ -8,15 +8,19 @@ An interactive Real Estate Property Analytics Dashboard built in Microsoft Power
 
 Exploratory Data Analysis was performed on the Real Estate Property dataset to understand property prices, locations, property characteristics, amenities, and relationships between different variables before creating the Power BI dashboard.
 
-📊 1. Dataset Overview
+##  📊 1. Dataset Overview
 
 The dataset contains real estate property information including:
 
-City Locality Bedrooms Bathrooms Living area Lot area Floors Property type Furnishing Parking Lift Balcony Garden Nearby schools Nearby hospitals Construction year Renovation year Property price 🧹 2. Data Quality Check
+City Locality Bedrooms Bathrooms Living area Lot area Floors Property type Furnishing Parking Lift Balcony Garden Nearby schools Nearby hospitals Construction year Renovation year Property price 
+
+## 🧹 2. Data Quality Check
 
 The following checks were performed:
 
-Checked total rows and columns. Checked column names. Checked data types. Checked missing values. Checked duplicate records. Checked invalid values. Checked numerical ranges. Checked categorical values. Checked property price values. 💰 3. Property Price Analysis
+Checked total rows and columns. Checked column names. Checked data types. Checked missing values. Checked duplicate records. Checked invalid values. Checked numerical ranges. Checked categorical values. Checked property price values.
+
+## 💰 3. Property Price Analysis
 
 Analyzed:
 
@@ -24,7 +28,7 @@ Minimum property price Maximum property price Average property price Property pr
 
 To understand the overall property market and identify price variations.
 
-🌆 4. City-Wise Analysis
+## 🌆 4. City-Wise Analysis
 
 
 Analyzed property distribution and pricing across different cities.
@@ -33,7 +37,7 @@ Analysis Number of properties by city Average price by city Minimum price by cit
 
 Which cities have the highest and lowest average property prices?
 
-📍 5. Locality-Wise Analysis
+## 📍 5. Locality-Wise Analysis
 
 
 Analyzed property prices across different localities.
@@ -42,7 +46,7 @@ Analysis Properties by locality Average locality price Top expensive localities 
 
 Which localities are the most expensive?
 
-🏠 6. Property Type Analysis
+## 🏠 6. Property Type Analysis
 
 
 Analyzed different property types.
@@ -57,7 +61,7 @@ Analysis Property count by bedrooms Average price by bedrooms Price distribution
 
 Does the number of bedrooms affect property prices?
 
-🚿 8. Bathroom Analysis
+## 🚿 8. Bathroom Analysis
 
 
 Analyzed the number of bathrooms.
@@ -78,7 +82,7 @@ Purpose:
 
 Understand whether larger properties tend to have higher prices.
 
-🌳 11. Lot Area Analysis
+## 🌳 11. Lot Area Analysis
 
 
 Analyzed sqft_lot.
@@ -95,24 +99,32 @@ Analysis Furnished properties Semi-furnished properties Unfurnished properties A
 
 Does furnishing status influence property price?
 
-🚗 14. Parking Analysis
+## 🚗 14. Parking Analysis
 
 
 Analyzed parking availability.
 
-Analysis Properties with parking Properties without parking Average price based on parking 🛗 15. Lift Analysis
+Analysis Properties with parking Properties without parking Average price based on parking 
+
+🛗 15. Lift Analysis
 
 Analyzed lift availability.
 
-Analysis Properties with lift Properties without lift Price comparison 🌿 16. Balcony Analysis
+Analysis Properties with lift Properties without lift Price comparison 
+
+🌿 16. Balcony Analysis
 
 Analyzed balcony availability/count.
 
-Analysis Properties with balconies Properties without balconies Average price comparison 🌳 17. Garden Analysis
+Analysis Properties with balconies Properties without balconies Average price comparison 
+
+🌳 17. Garden Analysis
 
 Analyzed garden availability.
 
-Analysis Properties with gardens Properties without gardens Average price comparison 🏫 18. Nearby Schools Analysis
+Analysis Properties with gardens Properties without gardens Average price comparison 
+
+🏫 18. Nearby Schools Analysis
 
 Analyzed the number of nearby schools.
 
@@ -138,7 +150,9 @@ Analysis Old properties New properties Property count by construction year Avera
 
 Analyzed renovation information.
 
-Analysis Renovated properties Non-renovated properties Average price comparison 🧩 22. Correlation Analysis
+Analysis Renovated properties Non-renovated properties Average price comparison 
+
+🧩 22. Correlation Analysis
 
 Relationships between numerical variables can be analyzed, including:
 
@@ -215,6 +229,7 @@ Maps
 Charts
 Data Visualization
 
+
 📊 Dashboard KPIs
 🏠 Total Properties
 💰 Total Property Value
@@ -227,6 +242,7 @@ Data Visualization
 🛏️ Average Bedrooms
 🚿 Average Bathrooms
 📈 Dashboard Visualizations
+
 
 KPI Cards
 Property Price by City
@@ -594,6 +610,8 @@ Build a property recommendation system.
 Add market trend analysis.
 Add neighborhood scoring.
 Add price-per-square-foot analysis.
+
+
 🏢 Business Use Cases
 This dashboard can be useful for:
 
@@ -606,6 +624,8 @@ This dashboard can be useful for:
 🏦 Financial Institutions
 💼 Investment Companies
 👨‍💻 Author
+
+
 Dashrath Landge
 
 Aspiring Data Analyst
