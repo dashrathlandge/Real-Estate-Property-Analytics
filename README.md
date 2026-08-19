@@ -230,17 +230,29 @@ Charts
 Data Visualization
 
 
+
 📊 Dashboard KPIs
-🏠 Total Properties
+ 
+ 🏠 Total Properties
+
 💰 Total Property Value
+
 💵 Average Property Price
+
 💎 Maximum Property Price
+
 📉 Minimum Property Price
+
 🌆 Total Cities
+
 📍 Total Localities
+
 📏 Average Living Area
+
 🛏️ Average Bedrooms
+
 🚿 Average Bathrooms
+
 📈 Dashboard Visualizations
 
 
@@ -281,6 +293,7 @@ Checked year-built values.
 Checked year-renovated values.
 Removed unnecessary data where required.
 Loaded the cleaned data into Power BI.
+
 ## 🗺️ Property Price Map
 
 A map visualization was created to analyze property prices geographically.
@@ -359,6 +372,7 @@ price
 Place the dataset in the project folder:
 
 indian_house_prices.csv
+
 
 ## 🚀 Project Workflow
 
@@ -472,6 +486,7 @@ Analyzed parking, lift, balcony, and garden availability.
 Studied property construction and renovation years.
 Used geographic visualization to understand city-level price patterns.
 
+
 📚 Skills Demonstrated
 
 Data Cleaning
@@ -487,6 +502,8 @@ Data Visualization
 Geographic Data Analysis
 Business Intelligence
 Business Analysis
+
+
 🧠 Key Learnings
 
 Built an end-to-end Power BI dashboard from raw real estate data.
@@ -498,6 +515,8 @@ Used maps for geographic property analysis.
 Used slicers to enable interactive data exploration.
 Improved dashboard design and data storytelling skills.
 Learned how to convert raw property data into actionable business insights.
+
+
 📌 Dashboard Insights
 
 Property Price Analysis
@@ -521,6 +540,7 @@ Analyzed parking, lift, balcony, and garden availability.
 Furnishing Analysis
 Compared prices across different furnishing categories.
 
+
 ✅ Advantages
 
 Provides a centralized view of real estate property performance.
@@ -537,6 +557,7 @@ Makes complex property data easier to understand.
 Supports data-driven decision-making.
 Demonstrates practical Power BI, DAX, and Power Query skills.
 Suitable for portfolio, resume, and business intelligence projects.
+
 ❌ Disadvantages
 
 Dashboard insights depend on the accuracy of the source data.
@@ -549,6 +570,7 @@ Does not include property photographs or detailed descriptions.
 Does not include all external factors that influence property prices.
 Does not provide advanced predictive analytics.
 Does not integrate with live real estate APIs.
+
 🎁 Benefits of the Real Estate Dashboard
 
 Provides a clear overview of the property market.
@@ -564,6 +586,8 @@ Provides easy-to-understand charts and KPIs.
 Improves data storytelling and business reporting.
 Can be updated with additional property records.
 Demonstrates practical Data Analyst and Power BI skills.
+
+
 ⚠️ Limitations of the Real Estate Dashboard
 
 Does not provide real-time property prices unless connected to a live data source.
@@ -576,6 +600,7 @@ Does not include all economic factors affecting property prices.
 Historical property prices may not represent current market conditions.
 Limited to the cities and localities available in the dataset.
 Does not replace professional real estate valuation or investment advice.
+
 📌 Scope and Limitations
 
 This dashboard is designed to analyze historical real estate property data and present key insights through interactive charts, KPIs, maps, and slicers.
@@ -596,6 +621,7 @@ However, the dashboard has some limitations. It does not provide real-time prope
 
 The analysis depends on the accuracy and completeness of the source dataset. The dashboard is intended for data analysis, reporting, visualization, and educational/portfolio purposes.
 
+
 🚀 Future Enhancements
 
 Integrate real-time real estate APIs.
@@ -615,14 +641,23 @@ Add price-per-square-foot analysis.
 🏢 Business Use Cases
 This dashboard can be useful for:
 
+
 🏠 Property Buyers
+
 💰 Property Investors
+
 🏢 Real Estate Agencies
+
 🏗️ Real Estate Developers
+
 📊 Real Estate Analysts
+
 📈 Market Research Teams
+
 🏦 Financial Institutions
+
 💼 Investment Companies
+
 👨‍💻 Author
 
 
