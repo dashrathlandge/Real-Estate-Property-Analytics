@@ -1,4 +1,4 @@
-🏠 Real-Estate-Property-Analytics-Dashboard
+## 🏠 Real-Estate-Property-Analytics-Dashboard
 
 Built an interactive Real Estate Property Analytics Dashboard in Microsoft Power BI using Power Query, DAX, Data Modeling, KPI Cards, Charts, Maps, and Slicers. Analyzed property prices, locations, property types, bedrooms, bathrooms, property sizes, furnishing, amenities, and construction information to generate actionable real estate insights.
 
@@ -156,8 +156,18 @@ The EDA helped identify:
 Property price patterns. City-wise pricing differences. Locality-wise pricing differences. Property type distribution. Bedroom and bathroom patterns. Relationship between property size and price. Furnishing differences. Amenity availability. Construction and renovation patterns.
 
 📸 EDA Preview 
+<img width="1064" height="836" alt="image" src="https://github.com/user-attachments/assets/77957a1e-f1c4-4066-ad26-1dcacabd9f37" />
+<img width="563" height="453" alt="image" src="https://github.com/user-attachments/assets/b08c805d-26a8-406b-81fd-99594d33298d" />
+<img width="572" height="453" alt="image" src="https://github.com/user-attachments/assets/d04ba01d-9b63-4d6a-99e2-4fb08446691b" />
+
+
+
+
+
 
 📌 Project Overview
+
+
 This project transforms raw real estate property data into an interactive dashboard that helps users understand property pricing and market characteristics.
 
 The dashboard provides insights into:
@@ -176,8 +186,11 @@ Balcony and garden availability
 Nearby schools and hospitals
 Construction year
 Renovation year
-📊 Power BI Dashboard
+
+## 📊 Power BI Dashboard
+
 🎯 Objectives
+
 Clean and transform raw real estate data.
 Perform exploratory data analysis (EDA).
 Create meaningful KPIs.
@@ -188,7 +201,9 @@ Build dynamic charts and interactive visualizations.
 Create a geographic property price analysis.
 Design an interactive Power BI dashboard.
 Generate actionable business insights.
+
 🛠️ Tools Used
+
 Microsoft Power BI
 Power Query
 DAX
@@ -199,6 +214,7 @@ Slicers
 Maps
 Charts
 Data Visualization
+
 📊 Dashboard KPIs
 🏠 Total Properties
 💰 Total Property Value
@@ -211,6 +227,7 @@ Data Visualization
 🛏️ Average Bedrooms
 🚿 Average Bathrooms
 📈 Dashboard Visualizations
+
 KPI Cards
 Property Price by City
 Top 10 Localities by Average Price
@@ -227,7 +244,9 @@ Balcony Availability
 Garden Availability
 Year Built Analysis
 Year Renovated Analysis
+
 🧹 Data Cleaning & Transformation
+
 The raw dataset was cleaned and transformed using Power Query.
 
 Data Cleaning Steps
@@ -246,7 +265,8 @@ Checked year-built values.
 Checked year-renovated values.
 Removed unnecessary data where required.
 Loaded the cleaned data into Power BI.
-🗺️ Property Price Map
+## 🗺️ Property Price Map
+
 A map visualization was created to analyze property prices geographically.
 
 Map Configuration
@@ -261,7 +281,8 @@ Tooltips → Price
 Note
 The dataset contains city and locality information but does not contain latitude and longitude. Therefore, the map provides city-level geographic analysis rather than exact property-level locations.
 
-🧮 Important DAX Measures
+## 🧮 Important DAX Measures
+
 Total Properties
 Total Properties =
 COUNTROWS(RealEstate)
@@ -292,7 +313,9 @@ AVERAGE(RealEstate[bedrooms])
 Average Bathrooms
 Average Bathrooms =
 AVERAGE(RealEstate[bathrooms])
-📂 Dataset
+
+## 📂 Dataset
+
 Dataset Name: Real Estate Property Dataset
 
 Dataset columns:
@@ -320,6 +343,7 @@ price
 Place the dataset in the project folder:
 
 indian_house_prices.csv
+
 ## 🚀 Project Workflow
 
 ### Step 1
@@ -378,6 +402,7 @@ Generate business insights.
 
 ## 🎛️ Interactive Filters
 
+
 The dashboard includes interactive slicers for:
 
 * City
@@ -398,24 +423,28 @@ The dashboard includes interactive slicers for:
 📸 Dashboard Preview
 Screenshot 2026-08-12 103625 Screenshot 2026-08-09 220320 Example:
 Images/Real_Estate_Property_Dashboard.png
+
 📁 Repository Structure
-Real-Estate-Property-Analytics-Dashboard/
-│
-├── Real_Estate_Property_Dataset.csv
-├── Real_Estate_Property_Analytics_Dashboard.pbix
-├── README.md
-│
-├── Dataset/
-│   └── Real_Estate_Property_Dataset.csv
-│
-├── Dashboard/
-│   └── Real_Estate_Property_Analytics_Dashboard.pbix
-│
-├── Images/
-│   └── Real_Estate_Property_Dashboard.png
-│
-└── LICENSE
-💡 Key Insights
+     ----
+
+    Real-Estate-Property-Analytics-Dashboard/
+    │
+    ├── Real_Estate_Property_Dataset.csv
+    ├── Real_Estate_Property_Analytics_Dashboard.pbix
+    ├── README.md
+    │
+    ├── Dataset/
+    │   └── Real_Estate_Property_Dataset.csv
+    │
+    ├── Dashboard/
+    │   └── Real_Estate_Property_Analytics_Dashboard.pbix
+    │
+    ├── Images/
+    │   └── Real_Estate_Property_Dashboard.png
+    │
+    └── LICENSE
+    💡 Key Insights
+
 Identified differences in property prices across cities.
 Compared average property prices across localities.
 Identified high-value and affordable property locations.
@@ -426,7 +455,9 @@ Compared furnished, semi-furnished, and unfurnished properties.
 Analyzed parking, lift, balcony, and garden availability.
 Studied property construction and renovation years.
 Used geographic visualization to understand city-level price patterns.
+
 📚 Skills Demonstrated
+
 Data Cleaning
 Data Transformation
 Exploratory Data Analysis
@@ -441,6 +472,7 @@ Geographic Data Analysis
 Business Intelligence
 Business Analysis
 🧠 Key Learnings
+
 Built an end-to-end Power BI dashboard from raw real estate data.
 Applied Power Query for data cleaning and transformation.
 Performed exploratory data analysis to identify pricing patterns.
@@ -451,6 +483,7 @@ Used slicers to enable interactive data exploration.
 Improved dashboard design and data storytelling skills.
 Learned how to convert raw property data into actionable business insights.
 📌 Dashboard Insights
+
 Property Price Analysis
 Analyzed average, minimum, and maximum property prices.
 
@@ -473,6 +506,7 @@ Furnishing Analysis
 Compared prices across different furnishing categories.
 
 ✅ Advantages
+
 Provides a centralized view of real estate property performance.
 Tracks important property KPIs in one dashboard.
 Helps compare property prices across cities and localities.
@@ -488,6 +522,7 @@ Supports data-driven decision-making.
 Demonstrates practical Power BI, DAX, and Power Query skills.
 Suitable for portfolio, resume, and business intelligence projects.
 ❌ Disadvantages
+
 Dashboard insights depend on the accuracy of the source data.
 Static datasets do not provide real-time property market information.
 Manual data refresh may be required when new data is added.
@@ -499,6 +534,7 @@ Does not include all external factors that influence property prices.
 Does not provide advanced predictive analytics.
 Does not integrate with live real estate APIs.
 🎁 Benefits of the Real Estate Dashboard
+
 Provides a clear overview of the property market.
 Helps compare property prices across different locations.
 Identifies expensive and affordable localities.
@@ -513,6 +549,7 @@ Improves data storytelling and business reporting.
 Can be updated with additional property records.
 Demonstrates practical Data Analyst and Power BI skills.
 ⚠️ Limitations of the Real Estate Dashboard
+
 Does not provide real-time property prices unless connected to a live data source.
 Requires regular data refresh when new property data becomes available.
 Dashboard performance may decrease with extremely large datasets.
@@ -524,6 +561,7 @@ Historical property prices may not represent current market conditions.
 Limited to the cities and localities available in the dataset.
 Does not replace professional real estate valuation or investment advice.
 📌 Scope and Limitations
+
 This dashboard is designed to analyze historical real estate property data and present key insights through interactive charts, KPIs, maps, and slicers.
 
 It helps users analyze:
@@ -543,6 +581,7 @@ However, the dashboard has some limitations. It does not provide real-time prope
 The analysis depends on the accuracy and completeness of the source dataset. The dashboard is intended for data analysis, reporting, visualization, and educational/portfolio purposes.
 
 🚀 Future Enhancements
+
 Integrate real-time real estate APIs.
 Add latitude and longitude.
 Create exact property-level maps.
